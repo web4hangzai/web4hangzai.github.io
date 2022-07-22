@@ -23,7 +23,8 @@ Education
         - Second Class Scholarship in 2019
         - Second Class Scholarship in 2020
 
-  ---
+---
+
 * [X] University of Essex
 
   - Colchester, UK
@@ -60,6 +61,7 @@ Shanghai, China
 ### High Frequency Electronic Communication Laboratory (Sep. 2019 – Present)
 
 ##### Member
+
 Northwest University, China
 
 • Comprehend basic TCP and ICP protocol
@@ -69,20 +71,62 @@ Northwest University, China
 
 ### Essex Brain-Computer Interfaces and Neural Engineering Laboratory (Oct. 2021 – June 2022)
 
-##### Participant 
+##### Participant
+
 Colchester, UK
 
 • A coded visual evoked potential stimuli presentation for brain-computer interfaces
 
+# School Experience
 
-Create content & metadata
--------------------------
+Computer Association Chairman Sep. 2020 – Present
+Northwest University Xi’an, China
+• Lectures for association members of laptop troubleshooting, system reinstall and basic Linux knowledge
+• Manage trouble-shootings of laptops for students and staff in the university for free
+• hackrf gps hijacking of smartphone demo
+English Debate Team Technical Tab Director Sep. 2020 – Present
+Northwest University Xi’an, China
+• Manage English debate competitions on website platform
+• Uphold lectures and Knowledge Sharing for debaters in team
+Computer Association Technical Department Deputy Director Sep. 2019 – July 2020
+Northwest University Xi’an, China
+• Participate Laptop free troubleshooting for all students and teachers
 
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you&#39;ve given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+# Projects
 
-**Markdown generator**
+ACM Domjudge Tab | Domjudge, php, docker, mariadb May. 2021 – June. 2021
+• http://119.28.42.126/public
+• Utilize docker containerized deployment and operation and maintenance of Northwest University ACM school
+competition and open competition
+English Debate Platform | Tabbycat, Python, Django, Sqlite3, Herokuapp Oct. 2020 – Present
+• Https://nwuedt.herokuapp.com
+• Deploy a web application using open-source project Tabbycat on herkuapp
+• Visualize the project for English Debate
+Python Web Crawler Based on Raspberry Pi | Linux, Python, VNC, Git, Jira Oct. 2020 – Dec. 2020
+• Deploy Linux(Raspbian) system and environment on Raspberry Pi
+• Develop and debug the python crawler code on Raspberry Pi
+• Upload and adjust the team project on the Gitlab and Jira
+• Set the Raspberry Pi as a software server remotely
+Musicians Knowledge Graph | Gephi, Neo4j, shell Jan. 2021
+• Develop musician influence knowledge graphs for data visualization
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+# Technical Skills
+
+Languages: Python, C/C++/C#, LaTeX, MATLAB, SQL, Linux(Ubuntu 18.04, Debian, Raspbian), Unix, Shell
+Frameworks: Django, ASP.NET, C# MVC
+Developer Tools: Terminal, VS Code, Git, Tencent Cloud Platfrom, Visual Studio, PyCharm, Clion, Matlab, Gitlab, Jira, Gephi(Data Visuialization), Neo4j(Knowledge Graph), Tableau
+Linguistic: English: IELTS(6.0), CET-6(506), Chinese Mandarin (Native)
+
+# Achievements
+
+China University Computer Competition 2020 | C/C++, Regex Dec. 2020
+• Second Prize of Northwest Region
+Foreign Language Teaching and Research Press Open Debate Competition 2020 | English June 2020
+• National Third Prize debater
+Word Competition Debate Academic 2020 | English Jan. 2020
+• National quarter-finalist debater
+National College Computer Challenge of University 2019 | C/C++ Nov. 2019
+• Third Prize of Northwest Region
 
 How to edit your site's GitHub repository
 -----------------------------------------
