@@ -42,7 +42,9 @@ Intern Experience
 ###### Zhejiang , China
 
 • Basic Ethernet cable and troubleshooting; RJ-45 network cable problems' inspection and production
+
 • Troubleshooting for IP-phone of post office
+
 • Basic intranet switch configuration and network maintenance in 114
 
 ---
@@ -54,8 +56,11 @@ Intern Experience
 ###### Shanghai, China
 
 • Develop and operate an MVC web app based on .NET CORE3.1 (.NET 5)
+
 • Use Vbscript scripts to periodically automate data processing on SAP system
+
 • Spotfire-based Python crawler for regular automated data processing
+
 • Update from PHP5 to PHP7 of E-checklist
 
 # Research Experience
@@ -67,8 +72,11 @@ Intern Experience
 ###### Northwest University, China
 
 • Comprehend basic TCP and ICP protocol
+
 • Develop programs of communications between two devices using labwindows
+
 • Familiar with lab equipment such as oscilloscope, multimeter for Hardware signal test
+
 • Experience with Multisim and board schematic design tool for circuit design
 
 ---
@@ -89,7 +97,9 @@ Intern Experience
 
 
 • Lectures for association members of laptop troubleshooting, system reinstall and basic Linux knowledge
+
 • Manage trouble-shootings of laptops for students and staff in the university for free
+
 • hackrf gps hijacking of smartphone demo
 
 ---
@@ -98,8 +108,8 @@ Intern Experience
 
 ##### Xi'an International Studies University  China
 
-
 • Manage English debate competitions on website platform
+
 • Uphold lectures and Knowledge Sharing for debaters in team
 
 ---
@@ -108,8 +118,8 @@ Intern Experience
 
 ##### Northwest University Xi'an, China
 
-
 • Manage English debate competitions on website platform
+
 • Uphold lectures and Knowledge Sharing for debaters in team
 
 
@@ -118,9 +128,13 @@ Intern Experience
 ### A coded visual evoked potential stimuli presentation for brain-computer interfaces | Python, Psychotoolbox, Psychopy, BCI2000, C#, CMake (Oct. 2021 - June 2022)
 
 • As for our Approach, evaluate Chinese, English, Japanese and numbers parameters and methods to develop the primary brain-computer interfaces in the visual studio of C# language.
+
 • Then, MATLAB psychtoolbox with m-sequences components setups to assess their coded visual evoked potential performance and identify the best configurations.
+
 • Flash psychopy coded visual evoked potential graphic user interface with python development.
+
 • BCI2000 as the server to communicate the graphic user interface with TCP and UDP protocols.
+
 • Our main results show that coded visuals evoked potential
 stimuli that outperformed the commonly used cases.
 
@@ -130,6 +144,7 @@ stimuli that outperformed the commonly used cases.
 
 
 • [http://119.28.42.126](http://119.28.42.126/public)
+
 • Utilize docker containerized deployment and operation and maintenance of Northwest University ACM school
 competition and open competition
 
@@ -139,8 +154,11 @@ competition and open competition
 
 
 • [https://xisu.herokuapp.com](https://xisu.herokuapp.com)
+
 • [https://nwuedt.herokuapp.com](https://nwuedt.herokuapp.com)
+
 • Deploy a web application using open-source project Tabbycat on herkuapp
+
 • Visualize the project for English Debate
 
 ---
@@ -149,16 +167,19 @@ competition and open competition
 
 
 • Deploy Linux(Raspbian) system and environment on Raspberry Pi
+
 • Develop and debug the python crawler code on Raspberry Pi
+
 • Upload and adjust the team project on the Gitlab and Jira
+
 • Set the Raspberry Pi as a software server remotely
 
 # Technical Skills
 
-Languages: Python, C/C++/C#, LaTeX, MATLAB, SQL, Linux(Ubuntu 18.04, Debian, Raspbian), Unix, Shell
-Frameworks: Django, ASP.NET, C# MVC
-Developer Tools: Terminal, VS Code, Git, Tencent Cloud Platfrom, Visual Studio, PyCharm, Clion, Matlab, Gitlab, Jira, Gephi(Data Visuialization), Neo4j(Knowledge Graph), Tableau
-Linguistic: English: IELTS(6.0), CET-6(506), Chinese Mandarin (Native)
+- Languages: Python, C/C++/C#, LaTeX, MATLAB, SQL, Linux(Ubuntu 18.04, Debian, Raspbian), Unix, Shell
+- Frameworks: Django, ASP.NET, C# MVC
+- Developer Tools: Terminal, VS Code, Git, Tencent Cloud Platfrom, Visual Studio, PyCharm, Clion, Matlab, Gitlab, Jira, Gephi(Data Visuialization), Neo4j(Knowledge Graph), Tableau
+- Linguistic: English: IELTS(6.0), CET-6(506), Chinese Mandarin (Native)
 
 # Achievements
 
