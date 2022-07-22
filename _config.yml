@@ -84,12 +84,12 @@ author:
   avatar           : "web4hangzai.jpg"
   bio              : "Trusted Answer"
   location         : "Xi'an"
-  employer         :
-  pubmed           : "https://xisu.herokuapp.com"
-  googlescholar    : "http://119.28.42.126:81"
-  email            :
+  employer         : "https://www.agilent.com/"
+  pubmed           : 
+  googlescholar    : 
+  email            :  "qw18761.essex.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              :  "http://119.28.42.126:81"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://nwuedt.herokuapp.com"
+  orcid            : "https://xisu.herokuapp.com"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
