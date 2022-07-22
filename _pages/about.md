@@ -39,17 +39,19 @@ Intern Experience
 
 ##### Engineer
 
-Zhejiang , China
+###### Zhejiang , China
 
 • Basic Ethernet cable and troubleshooting; RJ-45 network cable problems' inspection and production
 • Troubleshooting for IP-phone of post office
 • Basic intranet switch configuration and network maintenance in 114
 
+---
+
 ### Agilent Technology (June 2021 – Sep. 2021)
 
 ##### Software Engineer
 
-Shanghai, China
+###### Shanghai, China
 
 • Develop and operate an MVC web app based on .NET CORE3.1 (.NET 5)
 • Use Vbscript scripts to periodically automate data processing on SAP system
@@ -62,53 +64,96 @@ Shanghai, China
 
 ##### Member
 
-Northwest University, China
+###### Northwest University, China
 
 • Comprehend basic TCP and ICP protocol
 • Develop programs of communications between two devices using labwindows
 • Familiar with lab equipment such as oscilloscope, multimeter for Hardware signal test
 • Experience with Multisim and board schematic design tool for circuit design
 
+---
+
 ### Essex Brain-Computer Interfaces and Neural Engineering Laboratory (Oct. 2021 – June 2022)
 
 ##### Participant
 
-Colchester, UK
+###### Colchester, UK
 
 • A coded visual evoked potential stimuli presentation for brain-computer interfaces
 
 # School Experience
 
-Computer Association Chairman Sep. 2020 – Present
-Northwest University Xi’an, China
+### Computer Association Chairman (Sep. 2020 – June 2021)
+
+##### Northwest University Xi’an, China
+
+
 • Lectures for association members of laptop troubleshooting, system reinstall and basic Linux knowledge
 • Manage trouble-shootings of laptops for students and staff in the university for free
 • hackrf gps hijacking of smartphone demo
-English Debate Team Technical Tab Director Sep. 2020 – Present
-Northwest University Xi’an, China
+
+---
+
+### XISU English Debate Team Technical Tab Director (March 2022 – Present)
+
+##### Northwest University Xi’an, China
+
+
 • Manage English debate competitions on website platform
 • Uphold lectures and Knowledge Sharing for debaters in team
-Computer Association Technical Department Deputy Director Sep. 2019 – July 2020
-Northwest University Xi’an, China
-• Participate Laptop free troubleshooting for all students and teachers
+
+---
+
+### English Debate Team Technical Tab Director (Sep. 2020 – Present)
+
+##### Northwest University Xi’an, China
+
+
+• Manage English debate competitions on website platform
+• Uphold lectures and Knowledge Sharing for debaters in team
+
 
 # Projects
 
-ACM Domjudge Tab | Domjudge, php, docker, mariadb May. 2021 – June. 2021
-• http://119.28.42.126/public
+---
+
+### A coded visual evoked potential stimuli presentation for brain-computer interfaces | Python, Psychotoolbox, Psychopy, BCI2000, C#, CMake
+
+• As for our Approach, evaluate Chinese, English, Japanese and numbers parameters and methods to develop the primary brain-computer interfaces in the visual studio of C# language.
+• Then, MATLAB psychtoolbox with m-sequences components setups to assess their coded visual evoked potential performance and identify the best configurations.
+• Flash psychopy coded visual evoked potential graphic user interface with python development.
+• BCI2000 as the server to communicate the graphic user interface with TCP and UDP protocols.
+• Our main results show that coded visuals evoked potential
+stimuli that outperformed the commonly used cases.
+
+---
+
+### ACM Domjudge Tab | Domjudge, php, docker, mariadb May. 2021 – June. 2021
+
+
+• [http://119.28.42.126](http://119.28.42.126/public)
 • Utilize docker containerized deployment and operation and maintenance of Northwest University ACM school
 competition and open competition
-English Debate Platform | Tabbycat, Python, Django, Sqlite3, Herokuapp Oct. 2020 – Present
-• Https://nwuedt.herokuapp.com
+
+---
+
+### English Debate Platform | Tabbycat, Python, Django, Sqlite3, Herokuapp Oct. 2020 – Present
+
+
+• [https://xisu.herokuapp.com](https://xisu.herokuapp.com)
+• [https://nwuedt.herokuapp.com](https://nwuedt.herokuapp.com)
 • Deploy a web application using open-source project Tabbycat on herkuapp
 • Visualize the project for English Debate
-Python Web Crawler Based on Raspberry Pi | Linux, Python, VNC, Git, Jira Oct. 2020 – Dec. 2020
+
+---
+
+### Python Web Crawler Based on Raspberry Pi | Linux, Python, VNC, Git, Jira Oct. 2020 – Dec. 2020
+
+
 • Deploy Linux(Raspbian) system and environment on Raspberry Pi
 • Develop and debug the python crawler code on Raspberry Pi
 • Upload and adjust the team project on the Gitlab and Jira
 • Set the Raspberry Pi as a software server remotely
-Musicians Knowledge Graph | Gephi, Neo4j, shell Jan. 2021
-• Develop musician influence knowledge graphs for data visualization
 
 # Technical Skills
 
@@ -121,22 +166,19 @@ Linguistic: English: IELTS(6.0), CET-6(506), Chinese Mandarin (Native)
 
 China University Computer Competition 2020 | C/C++, Regex Dec. 2020
 • Second Prize of Northwest Region
+
 Foreign Language Teaching and Research Press Open Debate Competition 2020 | English June 2020
 • National Third Prize debater
+
 Word Competition Debate Academic 2020 | English Jan. 2020
 • National quarter-finalist debater
+
 National College Computer Challenge of University 2019 | C/C++ Nov. 2019
 • Third Prize of Northwest Region
 
-How to edit your site's GitHub repository
------------------------------------------
+# For more info
 
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons.
+---
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
--------------
-
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Example: SVG
+![Editing a markdown file for a talk](/images/gaugeDesign.svg)
