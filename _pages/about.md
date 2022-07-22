@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is the front page of a website that is used for Hangzai Homework and hosted on GitHub pages.
+This is the front page of a website that is used 4 (for) Hangzai Luo's 'Homework and hosted on GitHub pages.
 
 Education
 =========
@@ -26,40 +26,54 @@ Education
   ---
 * [X] University of Essex
 
-  - Colchester, England
+  - Colchester, UK
     - Bachelor of Electronic System Engineer
       - Oct. 2021 – June 2022
+      - First Honourable Class Degree
 
 Intern Experience
 =================
 
-
 ### China Telecom Corporation Limited (July 2020 – Aug. 2020)
 
 ##### Engineer
+
 Zhejiang , China
 
 • Basic Ethernet cable and troubleshooting; RJ-45 network cable problems' inspection and production
 • Troubleshooting for IP-phone of post office
 • Basic intranet switch configuration and network maintenance in 114
 
-
 ### Agilent Technology (June 2021 – Sep. 2021)
 
-##### Software Engineer 
-Shanghai, China
+##### Software Engineer
 
+Shanghai, China
 
 • Develop and operate an MVC web app based on .NET CORE3.1 (.NET 5)
 • Use Vbscript scripts to periodically automate data processing on SAP system
 • Spotfire-based Python crawler for regular automated data processing
 • Update from PHP5 to PHP7 of E-checklist
 
+# Research Experience
 
-Site-wide configuration
------------------------
+### High Frequency Electronic Communication Laboratory (Sep. 2019 – Present)
 
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
+##### Member
+Northwest University, China
+
+• Comprehend basic TCP and ICP protocol
+• Develop programs of communications between two devices using labwindows
+• Familiar with lab equipment such as oscilloscope, multimeter for Hardware signal test
+• Experience with Multisim and board schematic design tool for circuit design
+
+### Essex Brain-Computer Interfaces and Neural Engineering Laboratory (Oct. 2021 – June 2022)
+
+##### Participant 
+Colchester, UK
+
+• A coded visual evoked potential stimuli presentation for brain-computer interfaces
+
 
 Create content & metadata
 -------------------------
