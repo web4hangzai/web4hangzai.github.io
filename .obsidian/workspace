@@ -130,13 +130,15 @@
   },
   "active": "244cac28651382fc",
   "lastOpenFiles": [
+    "_pages/404.md",
+    "_pages/about.md",
+    "_pages/archive-layout-with-content.md",
     "2022-07-22.md",
     "markdown_generator/readme.md",
     "images/site-logo.png",
     "images/paragraph-no-indent.png",
     "images/foo-bar-identity.jpg",
     "images/bio-photo.jpg",
-    "images/500x300.png",
-    "README.md"
+    "images/500x300.png"
   ]
 }
