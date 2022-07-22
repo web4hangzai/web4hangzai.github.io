@@ -84,7 +84,7 @@ author:
   avatar           : "web4hangzai.jpg"
   bio              : "Trusted Answer"
   location         : "Xi'an"
-  employer         : "https://www.agilent.com/"
+  employer         : "https://xisu.herokuapp.com"
   pubmed           : 
   googlescholar    : 
   email            :  "qw18761.essex.ac.uk"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://xisu.herokuapp.com"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
