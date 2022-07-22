@@ -85,7 +85,7 @@ Intern Experience
 
 ### Computer Association Chairman (Sep. 2020 – June 2021)
 
-##### Northwest University Xi’an, China
+##### Northwest University Xi'an, China
 
 
 • Lectures for association members of laptop troubleshooting, system reinstall and basic Linux knowledge
@@ -96,7 +96,7 @@ Intern Experience
 
 ### XISU English Debate Team Technical Tab Director (March 2022 – Present)
 
-##### Northwest University Xi’an, China
+##### Xi'an International Studies University  China
 
 
 • Manage English debate competitions on website platform
@@ -106,7 +106,7 @@ Intern Experience
 
 ### English Debate Team Technical Tab Director (Sep. 2020 – Present)
 
-##### Northwest University Xi’an, China
+##### Northwest University Xi'an, China
 
 
 • Manage English debate competitions on website platform
@@ -115,9 +115,7 @@ Intern Experience
 
 # Projects
 
----
-
-### A coded visual evoked potential stimuli presentation for brain-computer interfaces | Python, Psychotoolbox, Psychopy, BCI2000, C#, CMake
+### A coded visual evoked potential stimuli presentation for brain-computer interfaces | Python, Psychotoolbox, Psychopy, BCI2000, C#, CMake (Oct. 2021 - June 2022)
 
 • As for our Approach, evaluate Chinese, English, Japanese and numbers parameters and methods to develop the primary brain-computer interfaces in the visual studio of C# language.
 • Then, MATLAB psychtoolbox with m-sequences components setups to assess their coded visual evoked potential performance and identify the best configurations.
@@ -128,7 +126,7 @@ stimuli that outperformed the commonly used cases.
 
 ---
 
-### ACM Domjudge Tab | Domjudge, php, docker, mariadb May. 2021 – June. 2021
+### ACM Domjudge Tab | Domjudge, php, docker, mariadb (May. 2021 – June. 2021)
 
 
 • [http://119.28.42.126](http://119.28.42.126/public)
@@ -137,7 +135,7 @@ competition and open competition
 
 ---
 
-### English Debate Platform | Tabbycat, Python, Django, Sqlite3, Herokuapp Oct. 2020 – Present
+### English Debate Platform | Tabbycat, Python, Django, Sqlite3, Herokuapp (Oct. 2020 – Present)
 
 
 • [https://xisu.herokuapp.com](https://xisu.herokuapp.com)
@@ -147,7 +145,7 @@ competition and open competition
 
 ---
 
-### Python Web Crawler Based on Raspberry Pi | Linux, Python, VNC, Git, Jira Oct. 2020 – Dec. 2020
+### Python Web Crawler Based on Raspberry Pi | Linux, Python, VNC, Git, Jira (Oct. 2020 – Dec. 2020)
 
 
 • Deploy Linux(Raspbian) system and environment on Raspberry Pi
