@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "18855cb5c6cfa27b",
+    "type": "split",
+    "children": [
+      {
+        "id": "244cac28651382fc",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dadef0d59a294871",
+    "type": "split",
+    "children": [
+      {
+        "id": "b43583148c655eb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44b6d361fa93fd0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "36198dac312a02d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e86f3bf5da6ed09f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "85498974c46d03f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2367091af8cae002",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a62f224a20d3f5d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd780d08b0a10c3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b907c300d34a2c45",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9fb9872a9324951b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "244cac28651382fc",
+  "lastOpenFiles": [
+    "2022-07-22.md",
+    "markdown_generator/readme.md",
+    "images/site-logo.png",
+    "images/paragraph-no-indent.png",
+    "images/foo-bar-identity.jpg",
+    "images/bio-photo.jpg",
+    "images/500x300.png",
+    "README.md"
+  ]
+}
