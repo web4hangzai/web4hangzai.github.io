@@ -30,15 +30,31 @@ Education
     - Bachelor of Electronic System Engineer
       - Oct. 2021 – June 2022
 
-Getting started
-===============
+Intern Experience
+=================
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
-3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-6. Check status by going to the repository settings, in the "GitHub pages" section
+
+### China Telecom Corporation Limited (July 2020 – Aug. 2020)
+
+##### Engineer
+Zhejiang , China
+
+• Basic Ethernet cable and troubleshooting; RJ-45 network cable problems' inspection and production
+• Troubleshooting for IP-phone of post office
+• Basic intranet switch configuration and network maintenance in 114
+
+
+### Agilent Technology (June 2021 – Sep. 2021)
+
+##### Software Engineer 
+Shanghai, China
+
+
+• Develop and operate an MVC web app based on .NET CORE3.1 (.NET 5)
+• Use Vbscript scripts to periodically automate data processing on SAP system
+• Spotfire-based Python crawler for regular automated data processing
+• Update from PHP5 to PHP7 of E-checklist
+
 
 Site-wide configuration
 -----------------------
