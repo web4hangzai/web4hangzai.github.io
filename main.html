@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- head -->
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <!-- for webpack icon -->
+    <title>Whichway</title>
+    <!-- for css/scss style  -->
+    <link rel="stylesheet" href="./style.css" />
+    <!-- ubpkg src for react and react dom -->
+    <script src="https://unpkg.com/react@16.9.0/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@16.9.0/umd/react-dom.production.min.js"></script>
+</head>
+
+<!-- body -->
+
+<body>
+    <!-- the bundle svg js -->
+    <div id="SVG_BG"></div>
+    <script src="bundle.js"></script>
+
+    <!-- SVG which created with Figma  -->
+    <svg id="logo" width="714" height="92" viewBox="0 0 714 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M119.984 1.78399L94.128 91H81.072L60.336 19.192L38.832 91L25.904 91.128L0.944 1.78399H13.36L32.816 77.432L54.32 1.78399H67.376L87.856 77.176L107.44 1.78399H119.984Z"  stroke="white" stroke-width="5"/>
+        <path d="M201.467 1.78399V91H189.819V50.552H144.379V91H132.731V1.78399H144.379V40.952H189.819V1.78399H201.467Z"  stroke="white" stroke-width="5"/>
+        <path d="M233.004 1.78399V91H221.356V1.78399H233.004Z" stroke="white" stroke-width="5"/>
+        <path d="M248.504 46.328C248.504 37.624 250.467 29.816 254.392 22.904C258.317 15.9067 263.651 10.4453 270.392 6.51999C277.219 2.59466 284.771 0.631989 293.048 0.631989C302.776 0.631989 311.267 2.97866 318.52 7.67199C325.773 12.3653 331.064 19.0213 334.392 27.64H320.44C317.965 22.264 314.381 18.1253 309.688 15.224C305.08 12.3227 299.533 10.872 293.048 10.872C286.819 10.872 281.229 12.3227 276.28 15.224C271.331 18.1253 267.448 22.264 264.632 27.64C261.816 32.9307 260.408 39.16 260.408 46.328C260.408 53.4107 261.816 59.64 264.632 65.016C267.448 70.3067 271.331 74.4027 276.28 77.304C281.229 80.2053 286.819 81.656 293.048 81.656C299.533 81.656 305.08 80.248 309.688 77.432C314.381 74.5307 317.965 70.392 320.44 65.016H334.392C331.064 73.5493 325.773 80.1627 318.52 84.856C311.267 89.464 302.776 91.768 293.048 91.768C284.771 91.768 277.219 89.848 270.392 86.008C263.651 82.0827 258.317 76.664 254.392 69.752C250.467 62.84 248.504 55.032 248.504 46.328Z"  stroke="white" stroke-width="5"/>
+        <path d="M420.467 1.78399V91H408.819V50.552H363.379V91H351.731V1.78399H363.379V40.952H408.819V1.78399H420.467Z"  stroke="white" stroke-width="5"/>
+        <path d="M552.484 1.78399L526.628 91H513.572L492.836 19.192L471.332 91L458.404 91.128L433.444 1.78399H445.86L465.316 77.432L486.82 1.78399H499.876L520.356 77.176L539.94 1.78399H552.484Z"  stroke="white" stroke-width="5"/>
+        <path d="M617.967 71.16H579.055L571.887 91H559.599L591.855 2.29599H605.295L637.423 91H625.135L617.967 71.16ZM614.639 61.688L598.511 16.632L582.383 61.688H614.639Z"  stroke="white" stroke-width="5"/>
+        <path d="M713.945 1.78399L684.889 57.336V91H673.241V57.336L644.057 1.78399H656.985L679.001 46.968L701.017 1.78399H713.945Z"  stroke="white" stroke-width="5"/>
+        <text x="100" y="135" style="fill:black; font-family:'Arial'; font-size:9px; text-anchor:end; ">Blog</text>
+    </svg>
+
+    <!-- test js scripts, not embedded -->
+    <script src="test.js"></script>
+
+    <!-- left bar -->
+    <div target="_blank" class="bar left_bar">
+        <div>
+            <!-- Blog About Me -->
+            <h2>Blog About Me</h2>
+            <h5 class="left_bar">Whichway is whom wants</h5>
+            <h5> to make sense on something.</h5>
+            <h5>/</h5>
+            <h5>/</h5>
+        </div>
+    </div>
+
+    <!-- right bar -->
+    <button class="bar">
+        <div>
+            <!-- some skills -->
+            <h2>Skills</h2>
+            <h4>Brain Computer Interface</h4>
+            <h5>A coded visual evoked potential </h5>
+            <h5>stimuli presentation for </h5>
+            <h5>brain-computer interfaces</h5>
+        </div>
+    </button>
+</body>
+
+</html>
